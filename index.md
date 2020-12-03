@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Bienvenue sur la page [Multigames](https://github.com/DeadPoolCamion/multigames/
 
-You can use the [editor on GitHub](https://github.com/DeadPoolCamion/multigames/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Page fabriquée par [DeadPoolCamion](https://github.com/DeadPoolCamion/) pour présenter plusieurs jeux.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown c'est une syntaxe d'écriture simplifiée.
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +24,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Tous les détails sur [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DeadPoolCamion/multigames/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Une question ? [contact DeadPoolCamion](https://github.com/DeadPoolCamion/).
