@@ -4,7 +4,7 @@ Page fabriquée par [DeadPoolCamion](https://github.com/DeadPoolCamion/) pour pr
 
 ### Les jeux
 
-- [Construis ton robot](https://https://deadpoolcamion.github.io/multigames/construis-ton-robot.html) - scratch
+- [Construis ton robot](https://deadpoolcamion.github.io/multigames/construis-ton-robot.html) - scratch
 
 ### Contact
 
